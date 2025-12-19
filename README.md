@@ -172,3 +172,10 @@ O LocalSend é uma excelente alternativa ao AirDrop e similares, funcionando mui
 
 Se quiser, posso adaptar este tutorial para **Debian**, **Linux Mint**, **Zorin OS** ou criar uma versão em **PDF ou Markdown**.
 
+## ❗ LocalSend não aparece no menu do Ubuntu
+
+Se o LocalSend foi instalado via Flatpak mas não aparece no menu ou lista dos aplicativos digite o comando abaixo e em seguida reinicie o sistema:
+
+```bash
+sudo apt install gnome-software-plugin-flatpak
+
