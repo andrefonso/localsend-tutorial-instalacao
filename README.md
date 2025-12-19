@@ -170,7 +170,6 @@ sudo ufw disable
 
 O LocalSend é uma excelente alternativa ao AirDrop e similares, funcionando muito bem no Ubuntu e em outros sistemas Linux. A instalação via Flatpak é a mais recomendada por garantir atualizações fáceis e compatibilidade.
 
-Se quiser, posso adaptar este tutorial para **Debian**, **Linux Mint**, **Zorin OS** ou criar uma versão em **PDF ou Markdown**.
 
 ## ❗ LocalSend não aparece no menu do Ubuntu
 
